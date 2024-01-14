@@ -9,7 +9,7 @@
 | 3 | Cumberlands Kin | Em | | | [Mama Said String Band](https://www.youtube.com/watch?v=F875qrh9-sg) |
 | 4 | Running in Circles | C | | | [Mama Said String Band](https://www.youtube.com/watch?v=q2PVO4D_0Q8) |
 | 5 | Dear Neal | C | | | [Mama Said String Band](https://www.youtube.com/watch?v=o76NuPsZtiM) |
-| 6 | Sitting in a Bush | A | senza | | [Bathroom Sessions](https://www.youtube.com/watch?v=uVwy5KYYC3c) |
+| 6 | Sitting in a Bush | A | senza | | [Bathroom Sessions](https://www.youtube.com/watch?v=uVwy5KYYC3c)<br>[Terrapin Hill Cabin Fever Reliever 2018](https://www.youtube.com/watch?v=4iY_saeoUbA&t=206s) |
 | 7 | Mountain Life | G | senza | | [Bathroom Sessions](https://www.youtube.com/watch?v=XpO7aGv2rA0) |
 | 8 | The Wall | D | | | [Mama Said String Band](https://www.youtube.com/watch?v=OdQQRAaOmxA) |
 | 9 | Somebody Anybody | C | senza | C | [Bathroom Sessions](https://www.youtube.com/watch?v=X5FVCec5Jc8)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=2196s) |
