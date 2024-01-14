@@ -1,4 +1,4 @@
-# Mama Said String Band
+# Mama Said String Band Guitar Capo Matrix
 
 ## Self-Titled (2018)
 
