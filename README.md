@@ -6,14 +6,14 @@
 | --: | --- | --- | --- | --- | --- |
 | 1 | Moontwinz | Bm | | | [Mama Said String Band](https://www.youtube.com/watch?v=ndogokgLZEg) |
 | 2 | Ordinary Weekend | A | 2 | G | [Bathroom Sessions](https://www.youtube.com/watch?v=jt8fKzSneX8) |
-| 3 | Cumberlands Kin | | | | |
-| 4 | Running in Circles | | | | |
-| 5 | Dear Neal | | | | |
-| 6 | Sitting in a Bush | | | | |
+| 3 | Cumberlands Kin | Em | | | [Mama Said String Band](https://www.youtube.com/watch?v=F875qrh9-sg) |
+| 4 | Running in Circles | C | | | [Mama Said String Band](https://www.youtube.com/watch?v=q2PVO4D_0Q8) |
+| 5 | Dear Neal | C | | | [Mama Said String Band](https://www.youtube.com/watch?v=o76NuPsZtiM) |
+| 6 | Sitting in a Bush | A | senza | | [Bathroom Sessions](https://www.youtube.com/watch?v=uVwy5KYYC3c) |
 | 7 | Mountain Life | G | senza | | [Bathroom Sessions](https://www.youtube.com/watch?v=XpO7aGv2rA0) |
-| 8 | The Wall | | | | |
+| 8 | The Wall | D | | | [Mama Said String Band](https://www.youtube.com/watch?v=OdQQRAaOmxA) |
 | 9 | Somebody Anybody | C | senza | C | [Bathroom Sessions](https://www.youtube.com/watch?v=X5FVCec5Jc8)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=2196s) |
-| 10 | Dust | | | | |
+| 10 | Dust | Em | | | [Mama Said String Band](https://www.youtube.com/watch?v=DkfL1m8xe78) |
 
 ## Carry The Water (2019)
 
