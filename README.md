@@ -41,10 +41,10 @@
 | 01 | Feel This Blue | A | 2 | G | [The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24) |
 | 02 | Best Friend's Medicine | Dm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
 | 03 | Seasons Of Change | E / C#m | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=155s) |
-| 04 | The Person You Get |  |  |  |  |
-| 05 | Cold Dark Sea |  |  |  |  |
-| 06 | Hard Earned Sorrow |  |  |  |  |
-| 07 | 310 |  |  |  |  |
+| 04 | The Person You Get | A | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=rZFE8oVkeK0) |
+| 05 | Cold Dark Sea | Am | senza |  |  |
+| 06 | Hard Earned Sorrow | Bm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=crVGpG257kI) |
+| 07 | 310 | E | senza |  | [Floydfest 2021](https://www.youtube.com/watch?v=iqEkTLLSkGY) |
 | 08 | Fall In Love |  |  |  |  |
 | 09 | Flabbergasted |  |  |  |  |
 | 10 | Lightning Bugs |  |  |  |  |
