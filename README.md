@@ -19,7 +19,7 @@
 
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
 | --: | --- | --- | --- | --- | --- |
-| 1 | Outside My Window |  |  |  |  |
+| 1 | Outside My Window | D | senza |  | [SomerSessions](https://www.youtube.com/watch?v=Yx8IALIzmQ0) |
 | 2 | Eyes on the Road |  |  |  |  |
 | 3 | Lowest Low |  |  |  |  |
 | 4 | Up on Terrapin Hill |  |  |  |  |
@@ -56,4 +56,8 @@
 | 11 | Arms of a Stranger | Em | senza  |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=885s) |
 | 12 | Stay | C |  |  | [Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) |
 
+# The Jukebox Sessions
+| Track | Title | Concert Key | Capo | Fingered Key | Cf. |
+| --: | --- | --- | --- | --- | --- |
+| | We Will Meet Again | G | senza |  | [The Jukebox Sessions](https://www.youtube.com/watch?v=6oodWlIcLa4) |
 
