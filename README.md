@@ -45,14 +45,14 @@
 | --: | --- | --- | --- | --- | --- |
 | 1 | Feel This Blue | A | 2 | G | [The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24) |
 | 2 | Best Friend's Medicine | Dm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
-| 3 | Seasons Of Change | E / C#m | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=155s) |
+| 3 | Seasons Of Change | E / C#m | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1891s) |
 | 4 | The Person You Get | A | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=rZFE8oVkeK0) |
 | 5 | Cold Dark Sea | Am | senza |  |  |
 | 6 | Hard Earned Sorrow | Bm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=crVGpG257kI) |
 | 7 | 310 | E | senza |  | [Floydfest 2021](https://www.youtube.com/watch?v=iqEkTLLSkGY) |
-| 8 | Fall In Love |  |  |  |  |
-| 9 | Flabbergasted |  |  |  |  |
-| 10 | Lightning Bugs |  |  |  |  |
+| 8 | Fall In Love | F |  |  | [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) |
+| 9 | Flabbergasted | A |  |  |  |
+| 10 | Lightning Bugs | A | senza |  | [One Shot, One Mic, One Song](https://www.youtube.com/watch?v=AjQkDFlnC8w)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=32s) |
 | 11 | Arms Of A Stranger |  |  |  |  |
 | 12 | Stay |  |  |  |  |
 
