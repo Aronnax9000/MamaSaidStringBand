@@ -33,7 +33,7 @@
 | 01 | Kentucky Heartbreak | G | senza |  | [Kentucky Music Hall of Fame](https://www.youtube.com/watch?v=zBBNXiwILyM) |
 | 02 | Good Company | Am / C | senza |  | [Bathroom Sessions](https://www.youtube.com/watch?v=nG1v1APGR0Y) |
 | 03 | Peace of Mind | D | senza |  | [Overtones LIVE](https://www.youtube.com/watch?v=--rrUmy3__k) |
-| 04 | Boxwine Swing |  |  |  | [Overtones LIVE](https://www.youtube.com/watch?v=f1YTQgHs5NU) |
+| 04 | Boxwine Swing | F#m | senza |  | [Overtones LIVE](https://www.youtube.com/watch?v=f1YTQgHs5NU) |
 
 ## Seasons of Change (2023)
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
