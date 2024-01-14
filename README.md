@@ -38,9 +38,9 @@
 ## Seasons of Change (2023)
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
 | --- | --- | --- | --- | --- | --- |
-| 01 | Feel This Blue | A | 2 | G |  |
+| 01 | Feel This Blue | A | 2 | G | [The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24) |
 | 02 | Best Friend's Medicine |  |  |  |  |
-| 03 | Seasons Of Change | C#m |  |  |  |
+| 03 | Seasons Of Change | E / C#m | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=155s) |
 | 04 | The Person You Get |  |  |  |  |
 | 05 | Cold Dark Sea |  |  |  |  |
 | 06 | Hard Earned Sorrow |  |  |  |  |
