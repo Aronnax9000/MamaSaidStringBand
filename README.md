@@ -38,9 +38,9 @@
 ## Seasons of Change (2023)
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
 | --- | --- | --- | --- | --- | --- |
-| 01 | Feel This Blue |  |  |  |  |
+| 01 | Feel This Blue | A | 2 | G |  |
 | 02 | Best Friend's Medicine |  |  |  |  |
-| 03 | Seasons Of Change |  |  |  |  |
+| 03 | Seasons Of Change | C#m |  |  |  |
 | 04 | The Person You Get |  |  |  |  |
 | 05 | Cold Dark Sea |  |  |  |  |
 | 06 | Hard Earned Sorrow |  |  |  |  |
