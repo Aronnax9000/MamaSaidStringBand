@@ -39,7 +39,7 @@
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
 | --- | --- | --- | --- | --- | --- |
 | 01 | Feel This Blue | A | 2 | G | [The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24) |
-| 02 | Best Friend's Medicine |  |  |  |  |
+| 02 | Best Friend's Medicine | Dm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
 | 03 | Seasons Of Change | E / C#m | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=155s) |
 | 04 | The Person You Get |  |  |  |  |
 | 05 | Cold Dark Sea |  |  |  |  |
