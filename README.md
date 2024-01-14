@@ -23,12 +23,12 @@
 | 2 | Eyes on the Road | A |  |  | [Carry the Water](https://www.youtube.com/watch?v=qEvF4L6Wp-A) |
 | 3 | Lowest Low | C#m | senza |  | [SomerSessions](https://www.youtube.com/watch?v=0PtewjU1oZA) |
 | 4 | Up on Terrapin Hill | Am |  |  | [Carry the Water](https://www.youtube.com/watch?v=R_KKl2GU6eo) |
-| 5 | Nameless |  |  |  |  |
-| 6 | Honey Bee Yourself |  |  |  |  |
-| 7 | Atomic Dreamz |  |  |  |  |
-| 8 | Drinks are Bad |  |  |  |  |
-| 9 | Sweet |  |  |  |  |
-| 10 | Changes |  |  |  |  |
+| 5 | Nameless | F |  |  | [Carry the Water](https://www.youtube.com/watch?v=-JTKERZciR4) |
+| 6 | Honey Bee Yourself | A |  |  | [Carry the Water](https://www.youtube.com/watch?v=fRqfcLPClr4) |
+| 7 | Atomic Dreamz | Am | senza |  | [Oct 29, 2018](https://www.youtube.com/watch?v=bd3R2XH4HLM) |
+| 8 | Drinks are Bad | Gm  | senza |  | [Official Music Video](https://www.youtube.com/watch?v=tbHXvDKRV3U) |
+| 9 | Sweet | G | senza |  | [Overtones LIVE](https://www.youtube.com/watch?v=zy8FoAtleLs) |
+| 10 | Changes | A |  |  | [Carry the Water](https://www.youtube.com/watch?v=7JhQ1mraBGQ) |
 
 ## Mariah (2021)
 
@@ -36,7 +36,7 @@
 | --: | --- | --- | --- | --- | --- |
 | 1 | Kentucky Heartbreak | G | senza |  | [Kentucky Music Hall of Fame](https://www.youtube.com/watch?v=zBBNXiwILyM) |
 | 2 | Good Company | Am / C | senza |  | [Bathroom Sessions](https://www.youtube.com/watch?v=nG1v1APGR0Y)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=239s) |
-| 3 | Peace of Mind | D | senza |  | [Overtones LIVE](https://www.youtube.com/watch?v=--rrUmy3__k) |
+| 3 | Peace of Mind | D | senza |  | [Overtones LIVE](https://www.youtube.com/watch?v=--rrUmy3__k)<br>[Official Music Video](https://www.youtube.com/watch?v=MmH4DhDKpLw) |
 | 4 | Boxwine Swing | F#m | senza |  | [Overtones LIVE](https://www.youtube.com/watch?v=f1YTQgHs5NU) |
 
 ## Seasons of Change (2023)
