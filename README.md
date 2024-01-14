@@ -51,7 +51,7 @@
 | 6 | Hard Earned Sorrow | Bm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=crVGpG257kI) |
 | 7 | 310 | E | senza |  | [Floydfest 2021](https://www.youtube.com/watch?v=iqEkTLLSkGY)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1133s) |
 | 8 | Fall in Love | F |  |  | [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) |
-| 9 | Flabbergasted | A |  |  |  |
+| 9 | Flabbergasted | A |  |  | [Seasons of Change](https://www.youtube.com/watch?v=gHXTqLP6Ed4) |
 | 10 | Lightning Bugs | A | senza |  | [One Shot, One Mic, One Song](https://www.youtube.com/watch?v=AjQkDFlnC8w)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=32s) |
 | 11 | Arms of a Stranger | Em | senza  |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=885s) |
 | 12 | Stay | C |  |  | [Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) |
