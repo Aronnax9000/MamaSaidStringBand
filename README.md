@@ -27,3 +27,28 @@
 | 09 | Sweet |  |  |  |  |
 | 10 | Changes |  |  |  |  |
 
+## Mariah (2021)
+| Track | Title | Concert Key | Capo | Fingered Key | Cf. |
+| --- | --- | --- | --- | --- | --- |
+| 01 | Kentucky Heartbreak |  |  |  |  |
+| 02 | Good Company |  |  |  |  |
+| 03 | Peace of Mind |  |  |  |  |
+| 04 | Boxwine Swing |  |  |  |  |
+
+## Seasons of Change (2023)
+| Track | Title | Concert Key | Capo | Fingered Key | Cf. |
+| --- | --- | --- | --- | --- | --- |
+| 01 | Feel This Blue |  |  |  |  |
+| 02 | Best Friend's Medicine |  |  |  |  |
+| 03 | Seasons Of Change |  |  |  |  |
+| 04 | The Person You Get |  |  |  |  |
+| 05 | Cold Dark Sea |  |  |  |  |
+| 06 | Hard Earned Sorrow |  |  |  |  |
+| 07 | 310 |  |  |  |  |
+| 08 | Fall In Love |  |  |  |  |
+| 09 | Flabbergasted |  |  |  |  |
+| 10 | Lightning Bugs |  |  |  |  |
+| 11 | Arms Of A Stranger |  |  |  |  |
+| 12 Stay |  |  |  |  |
+
+
