@@ -31,7 +31,7 @@
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
 | --- | --- | --- | --- | --- | --- |
 | 01 | Kentucky Heartbreak |  |  |  |  |
-| 02 | Good Company |  |  |  |  |
+| 02 | Good Company |  |  |  | [Bathroom Sessions](https://www.youtube.com/watch?v=nG1v1APGR0Y) |
 | 03 | Peace of Mind |  |  |  |  |
 | 04 | Boxwine Swing |  |  |  |  |
 
