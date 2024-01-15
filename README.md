@@ -57,6 +57,7 @@
 | 12 | Stay | C |  |  | [Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) |
 
 # The Jukebox Sessions
+
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
 | --: | --- | --- | --- | --- | --- |
 | | We Will Meet Again | G | senza |  | [The Jukebox Sessions](https://www.youtube.com/watch?v=6oodWlIcLa4) |
