@@ -1,4 +1,4 @@
-#Seasons of Change
+# Seasons of Change
 by David O'Neal
 
 Misery is heartache at rest
