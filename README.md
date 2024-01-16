@@ -34,7 +34,7 @@
 
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
 | --: | --- | --- | --- | --- | --- |
-| 1 | Kentucky Heartbreak | G | senza |  | [Kentucky Music Hall of Fame](https://www.youtube.com/watch?v=zBBNXiwILyM) |
+| 1 | Kentucky Heartbreak | G | senza |  | [Kentucky Music Hall of Fame](https://www.youtube.com/watch?v=zBBNXiwILyM) [Lyrics](lyrics/KentuckyHeartbreak.md) |
 | 2 | Good Company | Am / C | senza |  | [Bathroom Sessions](https://www.youtube.com/watch?v=nG1v1APGR0Y)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=239s) |
 | 3 | Peace of Mind | D | senza |  | [Overtones LIVE](https://www.youtube.com/watch?v=--rrUmy3__k)<br>[Official Music Video](https://www.youtube.com/watch?v=MmH4DhDKpLw) |
 | 4 | Boxwine Swing | F#m | senza |  | [Overtones LIVE](https://www.youtube.com/watch?v=f1YTQgHs5NU) |
