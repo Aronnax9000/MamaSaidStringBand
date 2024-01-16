@@ -43,7 +43,7 @@
 
 | Track | Title | Concert Key | Capo | Fingered Key | Cf. |
 | --: | --- | --- | --- | --- | --- |
-| 1 | Feel this Blue | A | 2 | G | [The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24) |
+| 1 | Feel this Blue | A | 2 | G | [The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24)<br>[Lyrics](lyrics/FeelThisBlue.md)|
 | 2 | Best Friend's Medicine | Dm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
 | 3 | Seasons Of Change | E / C#m | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1891s) |
 | 4 | The Person You Get | A | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=rZFE8oVkeK0) |
@@ -51,7 +51,7 @@
 | 6 | Hard Earned Sorrow | Bm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=crVGpG257kI) |
 | 7 | 310 | E | senza |  | [Floydfest 2021](https://www.youtube.com/watch?v=iqEkTLLSkGY)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1133s) |
 | 8 | Fall in Love | F |  |  | [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) |
-| 9 | Flabbergasted | A |  |  | [Seasons of Change](https://www.youtube.com/watch?v=gHXTqLP6Ed4) |
+| 9 | Flabbergasted | A |  |  | [Seasons of Change](https://www.youtube.com/watch?v=gHXTqLP6Ed4)<br>[Lyrics](lyrics/SeasonsOfChange.md) |
 | 10 | Lightning Bugs | A | senza |  | [One Shot, One Mic, One Song](https://www.youtube.com/watch?v=AjQkDFlnC8w)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=32s) |
 | 11 | Arms of a Stranger | Em | senza  |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=885s) |
 | 12 | Stay | C |  |  | [Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) |
