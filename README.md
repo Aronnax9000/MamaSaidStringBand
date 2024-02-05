@@ -47,7 +47,7 @@
 | 2 | Best Friend's Medicine | Dm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
 | 3 | Seasons Of Change | E / C#m | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1891s) |
 | 4 | The Person You Get | A | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=rZFE8oVkeK0) |
-| 5 | Cold Dark Sea | Am | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=684s)<br>[Tahlsound 2023](https://www.youtube.com/watch?v=8fwsfSM-S-k)<br>[Seasons of Change](https://www.youtube.com/watch?v=ZMz0-q6krcE)<br>[Katie Didit at Zanzabar ](https://www.youtube.com/watch?v=CMwSCUsRyz8)<br>[Katie Didit @ Diorio's 20 Dec 2023](https://www.youtube.com/watch?v=fvPow0pCdIk) |
+| 5 | Cold Dark Sea | Am | senza |  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=684s)<br>[Tahlsound 2023](https://www.youtube.com/watch?v=8fwsfSM-S-k)<br>[Seasons of Change](https://www.youtube.com/watch?v=ZMz0-q6krcE)<br>[Katie Didit at Zanzabar ](https://www.youtube.com/watch?v=CMwSCUsRyz8)<br>[Katie Didit @ Diorio's 20 Dec 2023](https://www.youtube.com/watch?v=fvPow0pCdIk)<br>[Katie Didit and David O'Neal - Lightning Bugs - Cold Dark Sea @ Flanagan's Ale House - April 7, 2023](https://www.youtube.com/watch?v=RfKaMDNfsas&t=227s) |
 | 6 | Hard Earned Sorrow | Bm | senza |  | [Waveland Studios](https://www.youtube.com/watch?v=crVGpG257kI) |
 | 7 | 310 | E | senza |  | [Floydfest 2021](https://www.youtube.com/watch?v=iqEkTLLSkGY)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1133s) |
 | 8 | Fall in Love | F |  |  | [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) |
