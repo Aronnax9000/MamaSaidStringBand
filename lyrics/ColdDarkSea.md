@@ -1,9 +1,9 @@
 # Cold Dark Sea
 ```
 I don't care if it never stops raining  
-not if you that you'll ever stop complaining  
+I don't think that you'll ever stop complaining  
 grass is surely greener  
-when we make believe  
+or when we make believe  
 pack your cabinets full of lies  
 about way things used to be  
 
