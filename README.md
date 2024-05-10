@@ -80,3 +80,8 @@ Uploaded August 15, 2020.
 - 24:50 Best Friend's Medicine
 - 31:31 Seasons of Change
 - 36:36 Somebody Anybody
+
+## [High Knob Music Festival 2023 - Mama Said String Band](https://youtu.be/LgGkLLcbXUA?si=b77hNtCVOpZDj7_8)
+Uploaded July 11, 2023
+
+## [Mama Said String Band at the Zanzibar in Louisville, KY on 3/2/2024](https://youtu.be/GPBQ8qsp01k?si=jIP8p72JeRbUNQ5c)
