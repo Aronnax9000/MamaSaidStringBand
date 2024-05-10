@@ -71,11 +71,11 @@
 
 ### Personnel
 
-Adlai Filiatreau-Banjo, Vocals 
-David O’Neal-Fiddle, Vocals 
-Katie Didit-Bass, Vocals 
-Katie Mae-Guitar, Vocals 
-Steph Kidd-Mandolin, Vocals
+- Adlai Filiatreau - Banjo, Vocals 
+- David O’Neal - Fiddle, Vocals 
+- Katie Didit - Bass, Vocals 
+- Katie Mae - Guitar, Vocals 
+- Steph Kidd - Mandolin, Vocals
 
 
 ## [Iso Jams Episode 6](https://www.youtube.com/watch?v=7n3C2eJRuu4)
@@ -96,10 +96,10 @@ Uploaded August 15, 2020.
 - 36:36 [Somebody Anybody](#somebodyanybody)
 
 ### Personnel
-- David O’Neal-Fiddle, Vocals 
-- Katie Didit-Bass, Vocals 
-- Kaitlen Farmer - Guitar
-- Kris Potts - Mandolin
+- David O’Neal - Fiddle, Vocals 
+- Katie Didit - Bass, Vocals 
+- Kaitlen Farmer - Guitar, Vocals
+- Kris Potts - Mandolin, Vocals
 
 ## [High Knob Music Festival 2023 - Mama Said String Band](https://youtu.be/LgGkLLcbXUA?si=b77hNtCVOpZDj7_8)
 Uploaded July 11, 2023
