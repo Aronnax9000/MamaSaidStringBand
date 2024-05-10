@@ -85,3 +85,6 @@ Uploaded August 15, 2020.
 Uploaded July 11, 2023
 
 ## [Mama Said String Band at the Zanzibar in Louisville, KY on 3/2/2024](https://youtu.be/GPBQ8qsp01k?si=jIP8p72JeRbUNQ5c)
+
+## [Mama Said String Band Live at the Coterie 03-29-2024](https://youtu.be/xfdcITG9QI4?si=73VYGDXIzZsKDBl_)
+Kokomo, IN
