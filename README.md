@@ -17,8 +17,8 @@
 
 ## Carry The Water (2019)
 
-| Track | Title | Concert Key | Capo | Fingered Key | Cf. |
-| --: | --- | --- | --- | --- | --- |
+| Track | Title | Key(Capo) | Fingered Key | Cf. |
+| --- | --- | --- | --- |
 | 1<a name="outsidemywindow"></a> | Outside My Window | D 0 | [SomerSessions](https://www.youtube.com/watch?v=Yx8IALIzmQ0) |
 | 2<a name="eyesontheroad"></a> | Eyes on the Road | A | [Carry the Water](https://www.youtube.com/watch?v=qEvF4L6Wp-A) |
 | 3<a name="lowestlow"></a> | Lowest Low | C#m 0 | [SomerSessions](https://www.youtube.com/watch?v=0PtewjU1oZA) |
@@ -32,8 +32,8 @@
 
 ## Mariah (2021)
 
-| Track | Title | Concert Key | Capo | Fingered Key | Cf. |
-| --: | --- | --- | --- | --- | --- |
+| Track | Title | Key(Capo) | Fingered Key | Cf. |
+| --- | --- | --- | --- |
 | 1<a name="kentuckyheartbreak"></a> | Kentucky Heartbreak | G 0 | [Kentucky Music Hall of Fame](https://www.youtube.com/watch?v=zBBNXiwILyM) [Lyrics](lyrics/KentuckyHeartbreak.md) |
 | 2<a name="goodcompany"></a> | Good Company | Am/C 0  | [Bathroom Sessions](https://www.youtube.com/watch?v=nG1v1APGR0Y)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=239s) |
 | 3<a name="peaceofmind"></a> | Peace of Mind | D 0 | [Overtones LIVE](https://www.youtube.com/watch?v=--rrUmy3__k)<br>[Official Music Video](https://www.youtube.com/watch?v=MmH4DhDKpLw) |
@@ -41,8 +41,8 @@
 
 ## Seasons of Change (2023)
 
-| Track | Title | Concert Key | Capo | Fingered Key | Cf. |
-| --: | --- | --- | --- | --- | --- |
+| Track | Title | Key(Capo) | Fingered Key | Cf. |
+| --- | --- | --- | --- |
 | 1<a name="feelthisblue"></a> | Feel this Blue | A 2 G | [Seasons of Change](https://www.youtube.com/watch?v=9PB-YTRKaYc)<br>[The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24)<br>[Lyrics](lyrics/FeelThisBlue.md)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=471s)|
 | 2<a name="bestfriendsmedicine"></a> | Best Friend's Medicine | Dm 0 | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
 | 3<a name="seasonsofchange"></a> | Seasons Of Change | E/C#m 0 | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1891s) |
@@ -58,12 +58,12 @@
 
 # The Jukebox Sessions
 
-| Track | Title | Concert Key | Capo | Fingered Key | Cf. |
-| --: | --- | --- | --- | --- | --- |
+| Track | Title | Key(Capo) | Fingered Key | Cf. |
+| --- | --- | --- | --- |
 | <a name="wewillmeetagain"></a> | We Will Meet Again | G 0 | [The Jukebox Sessions](https://www.youtube.com/watch?v=6oodWlIcLa4) |
 
 
-# Full Live Concerts
+# Live Concerts
 
 ## [Mama Said String Band 4/18/19 Terrapin Hill Cabin Fever Reliever](https://www.youtube.com/watch?v=4iY_saeoUbA)
 
