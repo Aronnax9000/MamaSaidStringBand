@@ -2,7 +2,7 @@
 
 ## Self-Titled (2018)
 
-| Track | Title | Key/Capo | Cf. |
+| Track | Title | Key (Capo) | Cf. |
 | --- | --- | --- | --- |
 | 1<a name="moontwinz"></a> | Moontwinz | Bm | [Mama Said String Band](https://www.youtube.com/watch?v=ndogokgLZEg)<br>[Terrapin Hill Cabin Fever Reliever 2019](https://www.youtube.com/watch?v=4iY_saeoUbA&t=576s) |
 | 2<a name="ordinaryweekend"></a> | Ordinary Weekend | A 2 G | [Bathroom Sessions](https://www.youtube.com/watch?v=jt8fKzSneX8) |
