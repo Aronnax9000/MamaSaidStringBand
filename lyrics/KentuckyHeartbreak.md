@@ -1,5 +1,5 @@
-Kentucky Heartbreak
-# by Kaitlen Farmer
+# Kentucky Heartbreak
+## by Kaitlen Farmer
 
 You’re smooth like a petal from the roses you picked for me yesterday  
 like a first time criminal robbing a bank and getting away  
