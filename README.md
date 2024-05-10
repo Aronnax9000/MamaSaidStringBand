@@ -71,15 +71,15 @@ Uploaded August 15, 2020.
 
 
 ## [The Big Stomp 2022](https://youtu.be/NGMYoMtF3q0?si=U3yJhsdmquR4Eavf)
-- 00:32 Lightning Bugs
-- 03:59 Good Company
-- 07:51 Feel This Blue
-- 11:24 Cold Dark Sea
-- 14:45 Arms Of A Stranger
-- 18:53 310
-- 24:50 Best Friend's Medicine
-- 31:31 Seasons of Change
-- 36:36 Somebody Anybody
+- 00:32 [Lightning Bugs](#lightningbugs)
+- 03:59 [Good Company](#goodcompany)
+- 07:51 [Feel This Blue](#feelthisblue)
+- 11:24 [Cold Dark Sea](#colddarksea)
+- 14:45 [Arms Of A Stranger](#armsofastranger)
+- 18:53 [310](#310)
+- 24:50 [Best Friend's Medicine](#bestfriendsmedicine)
+- 31:31 [Seasons of Change](#seasonsofchange)
+- 36:36 [Somebody Anybody](#somebodyanybody)
 
 ## [High Knob Music Festival 2023 - Mama Said String Band](https://youtu.be/LgGkLLcbXUA?si=b77hNtCVOpZDj7_8)
 Uploaded July 11, 2023
