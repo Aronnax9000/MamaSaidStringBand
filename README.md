@@ -8,7 +8,7 @@
 | 2<a name="ordinaryweekend"></a> | Ordinary Weekend | A 2 G | [Bathroom Sessions](https://www.youtube.com/watch?v=jt8fKzSneX8) |
 | 3<a name="cumberlandskin"></a> | Cumberlands Kin | Em | [Mama Said String Band](https://www.youtube.com/watch?v=F875qrh9-sg) |
 | 4<a name="runningincircles"></a> | Running in Circles | C | [Mama Said String Band](https://www.youtube.com/watch?v=q2PVO4D_0Q8) |
-| 5<a name="dearneal"></a> | Dear Neal | C | | | [Mama Said String Band](https://www.youtube.com/watch?v=o76NuPsZtiM) |
+| 5<a name="dearneal"></a> | Dear Neal | C | [Mama Said String Band](https://www.youtube.com/watch?v=o76NuPsZtiM) |
 | 6<a name="sittinginabush"></a> | Sitting in a Bush | A 0 | [Bathroom Sessions](https://www.youtube.com/watch?v=uVwy5KYYC3c)<br>[Terrapin Hill Cabin Fever Reliever 2019](https://www.youtube.com/watch?v=4iY_saeoUbA&t=206s) |
 | 7<a name="mountainlife"></a> | Mountain Life | G 0 | [Bathroom Sessions](https://www.youtube.com/watch?v=XpO7aGv2rA0) |
 | 8<a name="thewall"></a> | The Wall | D | [Mama Said String Band](https://www.youtube.com/watch?v=OdQQRAaOmxA) |
