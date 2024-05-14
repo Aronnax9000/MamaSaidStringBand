@@ -50,7 +50,7 @@
 | 5<a name="colddarksea"></a> | [Cold Dark Sea](lyrics/ColdDarkSea.md)<br> | Am 0 | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=684s) KF<br>[Tahlsound 2023](https://www.youtube.com/watch?v=8fwsfSM-S-k) KF<br>[Seasons of Change](https://www.youtube.com/watch?v=ZMz0-q6krcE) KF<br>[Katie Didit at Zanzabar ](https://www.youtube.com/watch?v=CMwSCUsRyz8)<br>[Katie Didit @ Diorio's 20 Dec 2023](https://www.youtube.com/watch?v=fvPow0pCdIk)<br>[Katie Didit and David O'Neal - Lightning Bugs - Cold Dark Sea @ Flanagan's Ale House - April 7, 2023](https://www.youtube.com/watch?v=RfKaMDNfsas&t=227s) |
 | 6<a name="hardearnedsorrow"></a> | Hard Earned Sorrow | Bm 0 | [Waveland Studios](https://www.youtube.com/watch?v=crVGpG257kI) |
 | 7<a name="310"></a> | 310 | E 0 | [Floydfest 2021](https://www.youtube.com/watch?v=iqEkTLLSkGY)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1133s) |
-| 8<a name="fallinlove"></a> | [Fall in Love](lyrics/FallInLove.md) | F | [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) |
+| 8<a name="fallinlove"></a> | [Fall in Love](lyrics/FallInLove.md) | F 0 | (per KF) [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) |
 | 9<a name="flabbergasted"></a> | Flabbergasted | A | [Seasons of Change](https://www.youtube.com/watch?v=gHXTqLP6Ed4) |
 | 10<a name="lightningbugs"></a> | Lightning Bugs | A 0 | [One Shot, One Mic, One Song](https://www.youtube.com/watch?v=AjQkDFlnC8w)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=32s) |
 | 11<a name="armsofastranger"></a> | Arms of a Stranger | Em 0 | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=885s) |
