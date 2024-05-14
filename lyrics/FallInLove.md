@@ -44,7 +44,7 @@ __Dm__ __Am__ __Bb__ __C__
 
 
 __Dm__ Aren't you getting __Am__ tired  
-Of me __Bb__ never being home __C__
+Of me __Bb__ never being home __C__  
 It's __F__ taking its __Am__ toll  
 Being __Bb__ left all alone  
 
