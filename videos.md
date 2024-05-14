@@ -43,3 +43,15 @@ Uploaded July 11, 2023
 
 ## [Mama Said String Band Live at the Coterie 03-29-2024](https://youtu.be/xfdcITG9QI4?si=73VYGDXIzZsKDBl_)
 Kokomo, IN
+
+## The Bathroom Sessions
+
+- [Mama Said String Band Good Company (Bathroom Sessions)](https://www.youtube.com/watch?v=nG1v1APGR0Y&pp=ygUnbWFtYSBzYWlkIHN0cmluZyBiYW5kIGJhdGhyb29tIHNlc3Npb25z) February 10, 2020
+
+## The Jukebox Sessions
+
+| Track | Title | Key(Capo) | Cf. |
+| --- | --- | --- | --- |
+| <a name="wewillmeetagain"></a> | We Will Meet Again | G 0 | [The Jukebox Sessions](https://www.youtube.com/watch?v=6oodWlIcLa4) |
+
+
