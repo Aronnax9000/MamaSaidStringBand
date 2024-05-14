@@ -46,8 +46,8 @@ Kokomo, IN
 
 ## The Bathroom Sessions
 
+- [Mama Said String Band - How Mountain Girls Can Love (Bathroom Sessions)](https://youtu.be/ZubIfyop-Jg?si=tP-sRQl9bzcMGBv4) October 8, 2018
 - [Mama Said String Band Good Company (Bathroom Sessions)](https://www.youtube.com/watch?v=nG1v1APGR0Y&pp=ygUnbWFtYSBzYWlkIHN0cmluZyBiYW5kIGJhdGhyb29tIHNlc3Npb25z) February 10, 2020
-
 ## The Jukebox Sessions
 
 | Track | Title | Key(Capo) | Cf. |
