@@ -38,59 +38,59 @@ Honey I hope you are happy
 
 ## Chords
 
-My (F) heart's wrapped up (Dm) in a bow  
-It's (Bb) all that I could af- (F) -ford  
-(Dm) (Am) (Bb) (C)  
+My __F__ heart's wrapped up __Dm__ in a bow  
+It's __Bb__ all that I could af- __F__ -ford  
+__Dm__ __Am__ __Bb__ __C__  
 
 
-(Dm) Aren't you getting (Am) tired  
-Of me (Bb) never being home (C)
-It's (F) taking its (Am) toll  
-Being (Bb) left all alone  
+__Dm__ Aren't you getting __Am__ tired  
+Of me __Bb__ never being home __C__
+It's __F__ taking its __Am__ toll  
+Being __Bb__ left all alone  
 
-You (Am) say that you're fine  
-But I can see in your (Dm) eyes  
-(Am) Every (Bb) time I (F) say good- (Dm) bye  
+You __Am__ say that you're fine  
+But I can see in your __Dm__ eyes  
+__Am__ Every __Bb__ time I __F__ say good- __Dm__ bye  
 
-My (F) hearts wrapped up (Dm) in a bow   
-It's (Bb) all that I could af- (F) -ford  
+My __F__ hearts wrapped up __Dm__ in a bow   
+It's __Bb__ all that I could af- __F__ -ford  
 
-Like (Bb) jewelry it shines,  
-yeah (C) I don't mind  
-(F) If you wanna leave (C) me behind
+Like __Bb__ jewelry it shines,  
+yeah __C__ I don't mind  
+__F__ If you wanna leave __C__ me behind
 
-Cause I fall in (Bb) love all (C) over again  
-In (F) every memory I (Dm) see you in  
-Honey I hope you (C) are hap- (F) -py  
+Cause I fall in __Bb__ love all __C__ over again  
+In __F__ every memory I __Dm__ see you in  
+Honey I hope you __C__ are hap- __F__ -py  
 
 Instrumental section 
-(Dm) 
+__Dm__ 
 
-His (F) letters go un - (Am) answered  
-And the (Bb) sky turns grey  
-His (F) love starts to (Am) fade  
+His __F__ letters go un - __Am__ answered  
+And the __Bb__ sky turns grey  
+His __F__ love starts to __Am__ fade  
 Just like the highway  
 
-(Am) Now I'm back at home  
-Where I intend to (Dm) stay  
-In (Am) solitude for the rest of my (Dm) days   
+__Am__ Now I'm back at home  
+Where I intend to __Dm__ stay  
+In __Am__ solitude for the rest of my __Dm__ days   
   
-My (F) hearts wrapped up (Dm) in a bow  
-It's (Bb) all that I could af- (F) -ford  
+My __F__ hearts wrapped up __Dm__ in a bow  
+It's __Bb__ all that I could af- __F__ -ford  
 
-Like (Bb) jewelry it shines,  
-yeah (C) I don't mind  
-(F) If you wanna leave (C) me behind   
+Like __Bb__ jewelry it shines,  
+yeah __C__ I don't mind  
+__F__ If you wanna leave __C__ me behind   
 
-Cause I fall in (Bb) love all (C) over again  
-In (F) every memory I (Dm) see  
-Cause I fall in (Bb) love all (C) over again  
-In (F) every memory I (Dm) see  
+Cause I fall in __Bb__ love all __C__ over again  
+In __F__ every memory I __Dm__ see  
+Cause I fall in __Bb__ love all __C__ over again  
+In __F__ every memory I __Dm__ see  
 
-Cause I fall in (Bb) love all (C) over again  
-In (F) every memory I (Dm) see  
-Cause I fall in (Bb) love all (C) over again  
-In (F) every memory I (Dm) see you in  
+Cause I fall in __Bb__ love all __C__ over again  
+In __F__ every memory I __Dm__ see  
+Cause I fall in __Bb__ love all __C__ over again  
+In __F__ every memory I __Dm__ see you in  
 
-(Bb) Honey I hope you (C) are (F) happy  
+__Bb__ Honey I hope you __C__ are __F__ happy  
 
