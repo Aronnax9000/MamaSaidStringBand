@@ -57,7 +57,7 @@
 | 12<a name="stay"></a> | Stay | C | [Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) |
 # The Bathroom Sessions
 
-- [Mama Said String Band Good Company (Bathroom Sessions)](https://www.youtube.com/watch?v=nG1v1APGR0Y&pp=ygUnbWFtYSBzYWlkIHN0cmluZyBiYW5kIGJhdGhyb29tIHNlc3Npb25z)
+- [Mama Said String Band Good Company (Bathroom Sessions)](https://www.youtube.com/watch?v=nG1v1APGR0Y&pp=ygUnbWFtYSBzYWlkIHN0cmluZyBiYW5kIGJhdGhyb29tIHNlc3Npb25z) February 10, 2020
 
 # The Jukebox Sessions
 
