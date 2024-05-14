@@ -55,6 +55,9 @@
 | 10<a name="lightningbugs"></a> | Lightning Bugs | A 0 | [One Shot, One Mic, One Song](https://www.youtube.com/watch?v=AjQkDFlnC8w)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=32s) |
 | 11<a name="armsofastranger"></a> | Arms of a Stranger | Em 0 | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=885s) |
 | 12<a name="stay"></a> | Stay | C | [Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) |
+# The Bathroom Sessions
+
+- [Mama Said String Band Good Company (Bathroom Sessions)](https://www.youtube.com/watch?v=nG1v1APGR0Y&pp=ygUnbWFtYSBzYWlkIHN0cmluZyBiYW5kIGJhdGhyb29tIHNlc3Npb25z)
 
 # The Jukebox Sessions
 
