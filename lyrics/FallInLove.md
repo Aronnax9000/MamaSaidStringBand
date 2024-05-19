@@ -12,8 +12,9 @@ Of me __Bb__ never being home __Bb__ __Gm__ __C7__
 It's __F__ taking its __Am__ toll  
 Being __Bb__ left all a- __Bb__ lone  __Gm(+#9)__
 
-You __Am__ say-ay __Gm__ that you're __Am__ fine but I    
-can see in your __Dm__ eyes __Am__ __Dm__ 
+You __Am__ say-ay __Gm__ that you're  
+__Am__ fine but I can  
+__Am/E__ see in your __Dm__ eyes __Am__ __Dm__ 
 __Am__ Every __Dm__ time I __F__ say __Am/E__ good- __Dm__ bye  
 
 My __F__ hearts wrapped up __Dm__ in a bow   
