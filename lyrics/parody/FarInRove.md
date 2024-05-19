@@ -14,19 +14,15 @@ and so do I
 When you say Sushi,  
 and I'll buy  
 
-It's seaweed wrapped, with some roe
-that's all that I can afford
+It's seaweed wrapped, with some roe  
+that's all that I can afford  
 
-Botulism free, with little Mercury
-This batch came from Germany 
+Botulism free, with little Mercury  
+This batch came from Germany  
 
-Cause Far in Rove's the only place
-we could get that shit for miles
+Cause Far in Rove's the only place  
+we could get that shit for miles  
 
-And Far in Rove's my ex's house
-the memory don't make me smile
-
-
-
-
+And Far in Rove's my ex's house  
+the memory don't make me smile  
 
