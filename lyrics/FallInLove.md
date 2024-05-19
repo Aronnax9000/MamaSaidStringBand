@@ -41,10 +41,10 @@ Honey I hope you are happy
 My __F__ heart's wrapped up __Dm__ in a bow  
 It's __Bb__ all that I could af- __F__ -ford  
 __Dm__ __Am__ __Bb__ __C__  
+__Dm__ __Bb__ __Gm__ __Gm7__
 
-
-__Dm__ Aren't you getting __Am__ tired  
-Of me __Bb__ never being home __C__  
+__F__ Aren't you getting __Am__ tired  
+Of me __Bb__ never being home __Bb__ __Gm__ __C7__  
 It's __F__ taking its __Am__ toll  
 Being __Bb__ left all alone  
 
@@ -61,19 +61,21 @@ __F__ If you wanna leave __C__ me behind
 
 Cause I fall in __Bb__ love all __C__ over again  
 In __F__ every memory I __Dm__ see you in  
-Honey I hope you __C__ are hap- __F__ -py  
+__Bb__ Honey I hope you __C__ are hap- __F__ -py  
 
 Instrumental section 
-__Dm__ 
+__Dm__  
+
 
 His __F__ letters go un - __Am__ answered  
 And the __Bb__ sky turns grey  
 His __F__ love starts to __Am__ fade  
-Just like the highway  
+Just like the __Bb__ highway  
 
 __Am__ Now I'm back at home  
 Where I intend to __Dm__ stay  
-In __Am__ solitude for the rest of my __Dm__ days   
+In __Am__ solitude for the rest  
+of my __Dm__ days   
   
 My __F__ hearts wrapped up __Dm__ in a bow  
 It's __Bb__ all that I could af- __F__ -ford  
