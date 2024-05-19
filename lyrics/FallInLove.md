@@ -27,7 +27,7 @@ yeah __C__ I don't mind
 __F__ If you wanna leave __C__ me behind
 
 Cause I fall in __Bb__ love all __C__ over again  
-In __F__ every memory I __Dm__ see you in  
+In __F__ every mem- 'ry I __Dm__ see you in  
 __Bb__ Honey I hope you __C__ are hap- __F__ -py  
 
 Instrumental section 
@@ -52,14 +52,14 @@ yeah __C__ I don't mind
 __F__ If you wanna leave __C__ me behind   
 
 Cause I fall in __Bb__ love all __C__ over again  
-In __F__ every memory I __Dm__ see  
+In __F__ every mem- 'ry I __Dm__ see  
 Cause I fall in __Bb__ love all __C__ over again  
 In __F__ every memory I __Dm__ see  
 
 Cause I fall in __Bb__ love all __C__ over again  
-In __F__ every memory I __Dm__ see  
+In __F__ every mem- 'ry I __Dm__ see  
 Cause I fall in __Bb__ love all __C__ over again  
-In __F__ every memory I __Dm__ see you in  
+In __F__ every mem- 'ry I __Dm__ see you in  
 
 __Bb__ Honey I hope you __C__ are __F__ happy  
 
