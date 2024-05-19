@@ -1,6 +1,5 @@
 # Fall in Love
 
-It's rice wrapped up with some roe
 
 ## Chords
 
