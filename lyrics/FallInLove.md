@@ -3,21 +3,36 @@
 
 ## Chords
 
-My __F__ heart's wrapped u- __Fmaj7__ __F__ -up __Dm__ in a bow  
-It's __Bb__ all that I could af- __F__ -ford __F F F__  
-__Dm Dm Am Am Bb Bb C C__   
+My 
+__F__ heart's wrapped u- __Fmaj7__ __F__ -up  
+__Dm__ in a bow  It's  
+__Bb__ all that I could af- 
+__F__ -ford __F F F__  
+
+__Dm Dm Am Am__  
+__Bb Bb C C__   
 __Dm__ __Bb__ __Gm__ __Gm7__  
 
-__F__ Aren't you getting __Am__ tired  
-Of me __Bb__ never being home __Bb__ __Gm__ __C7__  
-It's __F__ taking its __Am__ toll  
-Being __Bb__ left all a- __Bb__ lone  __Gm(+#9)__
+__F__ Aren't you getting  
+__Am__ tired  Of me __Bb__  
+never being  
+home __Bb__ __Gm__ __C7__  
 
-You __Am__ say-ay __Gm__ that you're  
-__Am__ fine but I can  
-__Am/E__ see in your __Dm__ eyes __Am__ __Dm__  
-__Am__ Every __Dm__ time I __F__ say  
-__Am/E__ good- __Dm__ bye  
+It's __F__ taking its  
+__Am__ toll  Being  
+__Bb__ left all a-  
+__Bb__ lone  __Gm(+#9)__  
+
+You __Am__ say-ay __Gm__ that you're   
+__Am__ fine but I can   
+__Am/E__ see in your  
+__Dm__ eyes 
+
+__Am__ __Dm__  
+
+__Am__ Every __Dm__ time I 
+__F__ say  __Am/E__ good- 
+__Dm__ bye  
 
 My __F__ hearts wrapped up __Dm__ in a bow   
 It's __Bb__ all that I could af- __F__ -ford  
