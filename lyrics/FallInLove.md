@@ -4,8 +4,8 @@
 ## Chords
 
 My __F__ heart's wrapped u- __Fmaj7__ __F__ -up __Dm__ in a bow  
-It's __Bb__ all that I could af- __F__ -ford  
-__Dm__ __Am__ __Bb__ __C__  
+It's __Bb__ all that I could af- __F__ -ford __F F F__ 
+__Dm Dm Am Am Bb Bb C C__  
 __Dm__ __Bb__ __Gm__ __Gm7__
 
 __F__ Aren't you getting __Am__ tired  
