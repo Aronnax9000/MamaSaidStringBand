@@ -14,7 +14,7 @@ and so do I
 When you say Sushi,  
 and I'll buy  
 
-It's seaweed wrapped, with some roe  
+Seaweed wrapped up, around roe  
 that's all that I can afford  
 
 Botulism free, with little Mercury  
