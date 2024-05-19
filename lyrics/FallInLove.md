@@ -10,7 +10,7 @@ __Dm__ __Bb__ __Gm__ __Gm7__
 __F__ Aren't you getting __Am__ tired  
 Of me __Bb__ never being home __Bb__ __Gm__ __C7__  
 It's __F__ taking its __Am__ toll  
-Being __Bb__ left all alone  
+Being __Bb__ left all a- __Bb__ lone  __Gm(+#9)__
 
 You __Am__ say-ay __Gm__ that you're __Am__ fine but I    
 can see in your __Dm__ eyes __Am__ __Dm__ 
