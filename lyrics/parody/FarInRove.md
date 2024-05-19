@@ -21,8 +21,8 @@ Botulism free, with little Mercury
 This batch came from Germany  
 
 Cause Far in Rove's the only place  
-we could get that shit for miles  
+we'c'n get fresh fish for miles  
 
-And Far in Rove's my ex's house  
+And Far in Rove's my ex's house and  
 the memory don't make me smile  
 
