@@ -6,7 +6,7 @@
 My 
 __F__ heart's wrapped u- __Fmaj7__ __F__ -up  
 __Dm__ in a bow  It's  
-__Bb__ all that I could af- 
+__Bb__ all that I could af-  
 __F__ -ford __F F F__  
 
 __Dm Dm Am Am__  
