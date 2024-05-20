@@ -4,19 +4,19 @@
 ## Chords
 
 My 
-__F__ heart's wrapped u- __Fmaj7__ __F__ -up  
+__F__ heart's wrapped u- __Fmaj7 F__ -up  
 __Dm__ in a bow  It's  
 __Bb__ all that I could af-  
 __F__ -ford __F F F__  
 
 __Dm Dm Am Am__  
 __Bb Bb C C__   
-__Dm__ __Bb__ __Gm__ __Gm7__  
-
+__Dm Bb Gm Gm7__  
+ 
 __F__ Aren't you getting  
-__Am__ tired  Of me __Bb__  
-never being  
-home __Bb__ __Gm__ __C7__  
+__Am__ tired  Of me  
+__Bb__ never being  
+__Bb__ home __Bb Gm C7__  
 
 It's __F__ taking its  
 __Am__ toll  Being  
