@@ -3,7 +3,7 @@
 
 ## Chords
 
-My 
+My  
 __F__ heart's wrapped u- __Fmaj7 F__ -up  
 __Dm__ in a bow  It's  
 __Bb__ all that I could af-  
@@ -16,12 +16,12 @@ __Dm Bb Gm Gm7__
 __F__ Aren't you getting  
 __Am__ tired  Of me  
 __Bb__ never being  
-__Bb__ home __Bb Gm C7__  
+__Bb__ home __Gm C C7__ It's  
 
-It's __F__ taking its  
+__F__ taking its  
 __Am__ toll  Being  
 __Bb__ left all a-  
-__Bb__ lone  __Gm(+#9)__  
+__Bb__ lone  __Gm(+#9)__    
 
 You __Am__ say-ay __Gm__ that you're   
 __Am__ fine but I can   
