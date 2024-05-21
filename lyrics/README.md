@@ -29,7 +29,7 @@
 - [Outside My Window](OutsideMyWindow.md)
 - [Peace Of Mind](PeaceOfMind.md)
 - [The Person You Get](ThePersonYouGet.md)
-- [Running in Circles](RunningInCircles,md)
+- [Running in Circles](RunningInCircles.md)
 - [Seasons of Change](SeasonsOfChange.md)
 - [Sitting in a Bush](SittingInABush.md)
 - [Somebody Anybody](SomebodyAnybody.md)
