@@ -4,16 +4,16 @@
 
 | Track | Title | Cf. |
 | --- | --- | --- |
-| 1<a name="moontwinz"></a> | [Moontwinz](../lyrics/Moontwinz.md) | [Mama Said String Band](https://www.youtube.com/watch?v=ndogokgLZEg)<br>[Terrapin Hill Cabin Fever Reliever 2019](https://www.youtube.com/watch?v=4iY_saeoUbA&t=576s) |
-| 2<a name="ordinaryweekend"></a> | [Ordinary Weekend](../lyrics/OrdinaryWeekend.md) | [Bathroom Sessions](https://www.youtube.com/watch?v=jt8fKzSneX8) |
-| 3<a name="cumberlandskin"></a> | [Cumberlands Kin](../lyrics/CumberlandsKin.md) | [Mama Said String Band](https://www.youtube.com/watch?v=F875qrh9-sg) |
-| 4<a name="runningincircles"></a> | [Running in Circles](../lyrics/RunningInCircles.md) | [Mama Said String Band](https://www.youtube.com/watch?v=q2PVO4D_0Q8) |
-| 5<a name="dearneal"></a> | [Dear Neal](../lyrics/DearNeal.md) | [Mama Said String Band](https://www.youtube.com/watch?v=o76NuPsZtiM) |
-| 6<a name="sittinginabush"></a> | [Sitting in a Bush](../lyrics/SittingInABush.md) | [Bathroom Sessions](https://www.youtube.com/watch?v=uVwy5KYYC3c)<br>[Terrapin Hill Cabin Fever Reliever 2019](https://www.youtube.com/watch?v=4iY_saeoUbA&t=206s) |
-| 7<a name="mountainlife"></a> | [Mountain Life](../lyrics/MountainLife.md) | [Bathroom Sessions](https://www.youtube.com/watch?v=XpO7aGv2rA0) |
-| 8<a name="thewall"></a> | [The Wall](../lyrics/TheWall.md) | [Mama Said String Band](https://www.youtube.com/watch?v=OdQQRAaOmxA) |
-| 9<a name="somebodyanybody"></a> | [Somebody Anybody](../lyrics/SomebodyAnybody.md) | [Bathroom Sessions](https://www.youtube.com/watch?v=X5FVCec5Jc8)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=2196s) |
-| 10<a name="dust"></a> | [Dust](../lyrics/Dust.md) | [Mama Said String Band](https://www.youtube.com/watch?v=DkfL1m8xe78) |
+| 1<a name="moontwinz"></a> | [Moontwinz](../lyrics/Moontwinz.md) | |
+| 2<a name="ordinaryweekend"></a> | [Ordinary Weekend](../lyrics/OrdinaryWeekend.md) |  |
+| 3<a name="cumberlandskin"></a> | [Cumberlands Kin](../lyrics/CumberlandsKin.md) ||
+| 4<a name="runningincircles"></a> | [Running in Circles](../lyrics/RunningInCircles.md) |  |
+| 5<a name="dearneal"></a> | [Dear Neal](../lyrics/DearNeal.md) |  |
+| 6<a name="sittinginabush"></a> | [Sitting in a Bush](../lyrics/SittingInABush.md) |  |
+| 7<a name="mountainlife"></a> | [Mountain Life](../lyrics/MountainLife.md) |  |
+| 8<a name="thewall"></a> | [The Wall](../lyrics/TheWall.md) |  |
+| 9<a name="somebodyanybody"></a> | [Somebody Anybody](../lyrics/SomebodyAnybody.md) |  |
+| 10<a name="dust"></a> | [Dust](../lyrics/Dust.md) |  |
 
 ## Carry The Water (2019)
 
