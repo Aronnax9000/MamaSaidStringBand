@@ -35,9 +35,9 @@
 | Track | Title | Cf. |
 | --- | --- | --- |
 | 1<a name="kentuckyheartbreak"></a> | [Kentucky Heartbreak](../lyrics/KentuckyHeartbreak.md)  |  |
-| 2<a name="goodcompany"></a> | [Good Company](../lyrics/GoodCompany.md) | [Bathroom Sessions](https://www.youtube.com/watch?v=nG1v1APGR0Y)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=239s) |
-| 3<a name="peaceofmind"></a> | [Peace of Mind](../lyrics/PeaceOfMind.md) | [Overtones LIVE](https://www.youtube.com/watch?v=--rrUmy3__k)<br>[Official Music Video](https://www.youtube.com/watch?v=MmH4DhDKpLw) |
-| 4<a name="boxwineswing"></a> | [Boxwine Swing](../lyrics/BoxwineSwing.md) | [Overtones LIVE](https://www.youtube.com/watch?v=f1YTQgHs5NU) |
+| 2<a name="goodcompany"></a> | [Good Company](../lyrics/GoodCompany.md) | |
+| 3<a name="peaceofmind"></a> | [Peace of Mind](../lyrics/PeaceOfMind.md) | |
+| 4<a name="boxwineswing"></a> | [Boxwine Swing](../lyrics/BoxwineSwing.md) |  |
 
 ## Seasons of Change (2023)
 
