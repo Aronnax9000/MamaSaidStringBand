@@ -20,15 +20,15 @@ Uploaded August 15, 2020.
 ## [The Big Stomp 2022](https://youtu.be/NGMYoMtF3q0?si=U3yJhsdmquR4Eavf)
 
 ### Setlist
-- 00:32 [Lightning Bugs](#lightningbugs)
-- 03:59 [Good Company](#goodcompany)
-- 07:51 [Feel This Blue](#feelthisblue)
-- 11:24 [Cold Dark Sea](#colddarksea)
-- 14:45 [Arms Of A Stranger](#armsofastranger)
-- 18:53 [310](#310)
-- 24:50 [Best Friend's Medicine](#bestfriendsmedicine)
-- 31:31 [Seasons of Change](#seasonsofchange)
-- 36:36 [Somebody Anybody](#somebodyanybody)
+- 00:32 [Lightning Bugs](../discography/README.md#lightningbugs)
+- 03:59 [Good Company](../discography/README.md#goodcompany)
+- 07:51 [Feel This Blue](../discography/README.md#feelthisblue)
+- 11:24 [Cold Dark Sea](../discography/README.md#colddarksea)
+- 14:45 [Arms Of A Stranger](../discography/README.md#armsofastranger)
+- 18:53 [310](../discography/README.md#310)
+- 24:50 [Best Friend's Medicine](../discography/README.md#bestfriendsmedicine)
+- 31:31 [Seasons of Change](../discography/README.md#seasonsofchange)
+- 36:36 [Somebody Anybody](../discography/README.md#somebodyanybody)
 
 ### Personnel
 - David O’Neal - Fiddle, Vocals 
