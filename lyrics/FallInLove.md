@@ -11,7 +11,7 @@ __F__ -ford __F F F__
 
 __Dm Dm Am Am__  
 __Bb Bb C C__   
-__Dm Bb Gm Gm7__  
+__Dm Bb Gm C7__  
  
 __F__ Aren't you getting  
 __Am__ tired  Of me  
@@ -26,18 +26,20 @@ __Bb__ lone  __Gm(+#9)__ You
 __Am__ say-ay __Gm__ that you're  
 __Am__ fine but I can __Am/E__ see in your    
 __Dm__ eyes  
-__Am Dm__   
+__Am Am Dm Dm__   
 
 __Am__ Every __Dm__ time I  
 __Am__ say  __Am/E__ good-  
 __Dm__ bye  
 __Am Dm__  
 
-My __F__ hearts wrapped up __Dm__ in a bow   
-It's __Bb__ all that I could af- __F__ -ford  
+My __F__ hearts wrapped up  
+__Dm__ in a bow, it's  
+__Bb__ all that I could af- 
+__F__ -ford  __F F F__ Like  
 
-Like __Bb__ jewelry it shines,  
-yeah __C__ I don't mind  
+__Bb__ jewelry it shines, yeah   
+__C__ I don't mind  
 __F__ If you wanna leave  
 __C__ me behind
 
