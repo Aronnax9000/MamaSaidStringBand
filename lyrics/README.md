@@ -11,7 +11,7 @@
 | [Cold Dark Sea](ColdDarkSea.md) | Am 0  | 
 | [Cumberlands Kin](CumberlandsKin.md) | Em  | 
 | [Dear Neal](DearNeal.md) |  C | 
-| [Drinks are Bad](DrinksAreBad.md) |   | 
+| [Drinks are Bad](DrinksAreBad.md) | Gm 0  | 
 | [Dust](Dust.md) | Em  | 
 | [Eyes on the Road](EyesOnTheRoad.md) | A	  | 
 | [Fall in Love](FallInLove.md) | F 0  | 
