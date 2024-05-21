@@ -43,15 +43,14 @@
 
 | Track | Title | Cf. |
 | --- | --- | --- |
-| 1<a name="feelthisblue"></a> | [Feel this Blue](../lyrics/FeelThisBlue.md) | [Seasons of Change](https://www.youtube.com/watch?v=9PB-YTRKaYc)<br>[The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=471s)|
-| 2<a name="bestfriendsmedicine"></a> | [Best Friend's Medicine](../lyrics/BestFriendsMedicine.md) | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
-| 3<a name="seasonsofchange"></a> | [Seasons Of Change](../lyrics/SeasonsOfChange.md) | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1891s) |
-| 4<a name="thepersonyouget"></a> | [The Person You Get](../lyrics/ThePersonYouGet.md) | [Waveland Studios](https://www.youtube.com/watch?v=rZFE8oVkeK0) |
-| 5<a name="colddarksea"></a> | [Cold Dark Sea](../lyrics/ColdDarkSea.md)<br> | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=684s) KF<br>[Tahlsound 2023](https://www.youtube.com/watch?v=8fwsfSM-S-k) KF<br>[Seasons of Change](https://www.youtube.com/watch?v=ZMz0-q6krcE) KF<br>[Katie Didit at Zanzabar ](https://www.youtube.com/watch?v=CMwSCUsRyz8)<br>[Katie Didit @ Diorio's 20 Dec 2023](https://www.youtube.com/watch?v=fvPow0pCdIk)<br>[Katie Didit and David O'Neal - Lightning Bugs - Cold Dark Sea @ Flanagan's Ale House - April 7, 2023](https://www.youtube.com/watch?v=RfKaMDNfsas&t=227s) |
-| 6<a name="hardearnedsorrow"></a> | [Hard Earned Sorrow](../lyrics/.md) | [Waveland Studios](https://www.youtube.com/watch?v=crVGpG257kI) |
-| 7<a name="310"></a> | [310](../lyrics/310.md) | [Floydfest 2021](https://www.youtube.com/watch?v=iqEkTLLSkGY)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1133s) |
-| 8<a name="fallinlove"></a> | [Fall in Love](../lyrics/FallInLove.md) | [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) |
-| 9<a name="flabbergasted"></a> | [Flabbergasted](../lyrics/Flabbergasted.md) | [Seasons of Change](https://www.youtube.com/watch?v=gHXTqLP6Ed4) |
-| 10<a name="lightningbugs"></a> | [Lightning Bugs](../lyrics/LightningBugs.md) | [One Shot, One Mic, One Song](https://www.youtube.com/watch?v=AjQkDFlnC8w)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=32s) |
-| 11<a name="armsofastranger"></a> | [Arms of a Stranger](../lyrics/ArmsOfAStranger.md) | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=885s) |
-| 12<a name="stay"></a> | [Stay](../lyrics/Stay.md) | [Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) |
+| 1<a name="feelthisblue"></a> | [Feel this Blue](../lyrics/FeelThisBlue.md) | |
+| 2<a name="bestfriendsmedicine"></a> | [Best Friend's Medicine](../lyrics/BestFriendsMedicine.md) |  |
+| 4<a name="thepersonyouget"></a> | [The Person You Get](../lyrics/ThePersonYouGet.md) |  |
+| 5<a name="colddarksea"></a> | [Cold Dark Sea](../lyrics/ColdDarkSea.md)<br> |  |
+| 6<a name="hardearnedsorrow"></a> | [Hard Earned Sorrow](../lyrics/.md) | |
+| 7<a name="310"></a> | [310](../lyrics/310.md) | |
+| 8<a name="fallinlove"></a> | [Fall in Love](../lyrics/FallInLove.md) |  |
+| 9<a name="flabbergasted"></a> | [Flabbergasted](../lyrics/Flabbergasted.md) | |
+| 10<a name="lightningbugs"></a> | [Lightning Bugs](../lyrics/LightningBugs.md) |  |
+| 11<a name="armsofastranger"></a> | [Arms of a Stranger](../lyrics/ArmsOfAStranger.md) |  |
+| 12<a name="stay"></a> | [Stay](../lyrics/Stay.md) |  |
