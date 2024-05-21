@@ -1,6 +1,4 @@
-# Mama Said String Band
-
-## [Discography](../discography/README.md) Videos [Lyrics](../lyrics/README.md)
+# [Mama Said String Band](../README.md) [Discography](../discography/README.md) Videos [Lyrics](../lyrics/README.md)
 
 ## [Mama Said String Band 4/18/19 Terrapin Hill Cabin Fever Reliever](https://www.youtube.com/watch?v=4iY_saeoUbA)
 
