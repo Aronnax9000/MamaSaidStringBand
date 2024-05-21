@@ -37,6 +37,6 @@
 | [Somebody Anybody](SomebodyAnybody.md) | C 0  | [Bathroom Sessions](https://www.youtube.com/watch?v=X5FVCec5Jc8)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=2196s) |
 | [Stay](Stay.md) | C  | [Seasons of Change - Stay](https://youtu.be/lf9KucPc7S8?si=yeLBQiYMfVP2-GiQ) |
 | [Sweet](Sweet.md) | G 0  | [Overtones LIVE](https://www.youtube.com/watch?v=zy8FoAtleLs) |
-| [Up on Terrapin Hill](UpOnTerrapinHill.md) | Am  | [Carry the Water](https://www.youtube.com/watch?v=R_KKl2GU6eo) |
-| [The Wall](TheWall.md) | D  | [Mama Said String Band](https://www.youtube.com/watch?v=OdQQRAaOmxA) |
+| [Up on Terrapin Hill](UpOnTerrapinHill.md) | Am  | [Carry the Water - Up on Terrapin Hill](https://www.youtube.com/watch?v=R_KKl2GU6eo) |
+| [The Wall](TheWall.md) | D  | [Mama Said String Band - The Wall](https://www.youtube.com/watch?v=OdQQRAaOmxA) |
 
