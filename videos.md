@@ -1,4 +1,6 @@
-# Mama Said String Band Videos
+# Mama Said String Band
+
+## [Discography](discography.md) Videos 
 
 ## [Mama Said String Band 4/18/19 Terrapin Hill Cabin Fever Reliever](https://www.youtube.com/watch?v=4iY_saeoUbA)
 
