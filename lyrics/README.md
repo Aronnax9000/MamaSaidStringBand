@@ -1,7 +1,7 @@
 # [Mama Said String Band](../README.md) [Discography](../discography/README.md) [Videos](../videos/README.md) Lyrics
 
 | Song Title |
-
+| --- |
 | [310](310.md) | 
 | [Arms of a Stranger](ArmsOfAStranger.md) | 
 | [Atomic Dreamz](AtomicDreamz.md) | 
