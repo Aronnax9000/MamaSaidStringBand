@@ -1,3 +1,3 @@
 # Mama Said String Band 
 
-## [Discography](discography.md) [Videos](videos.md)
+## [Discography](README.md) [Videos](README.md) [Lyrics](lyrics/README.md)
