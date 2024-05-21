@@ -3,11 +3,11 @@
 I don't care if it never stops raining  
 I don't think that you'll ever stop complaining  
 grass is surely greener  
-or when we make believe  
+when we make believe  
 pack your cabinets full of lies  
 about way things used to be  
 
-And all those things seem so ?? of the day  
+And all those things seem much better every day  
 don't have to paint the picture if i decide to stay  
 truth of the matter is that I just can't let go  
 love like yours comes only once  
