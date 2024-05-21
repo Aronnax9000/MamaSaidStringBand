@@ -1,5 +1,5 @@
 # Cold Dark Sea
-```
+
 I don't care if it never stops raining  
 I don't think that you'll ever stop complaining  
 grass is surely greener  
@@ -40,4 +40,3 @@ you don't have to think
 think of me no more  
 no more  
 
-```
