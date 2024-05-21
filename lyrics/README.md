@@ -24,10 +24,10 @@
 | [Kentucky Heartbreak](KentuckyHeartbreak.md) | G 0  | [Mama Said String Band "Kentucky Heartbreak" at Kentucky Music Hall of Fame](https://www.youtube.com/watch?v=zBBNXiwILyM) | 
 | [Lightning Bugs](LightningBugs.md) | A 0  | [One Shot, One Mic, One Song](https://www.youtube.com/watch?v=AjQkDFlnC8w)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=32s) |
 | [Lowest Low](LowestLow.md) | C#m 0  |  |
-| [Moontwinz](Moontwinz.md) | Bm  |  |
+| [Moontwinz](Moontwinz.md) | Bm  |  [Mama Said String Band](https://www.youtube.com/watch?v=ndogokgLZEg)<br>[Terrapin Hill Cabin Fever Reliever 2019](https://www.youtube.com/watch?v=4iY_saeoUbA&t=576s)  |
 | [Mountain Life](MountainLife.md) | G 0  |  |
 | [Nameless](Nameless.md) | F  |  |
-| [Ordinary Weekend](OrdinaryWeekend.md) | A 2 G  |  |
+| [Ordinary Weekend](OrdinaryWeekend.md) | A 2 G  | [Bathroom Sessions](https://www.youtube.com/watch?v=jt8fKzSneX8) |
 | [Outside My Window](OutsideMyWindow.md) | D 0  |  |
 | [Peace Of Mind](PeaceOfMind.md) | D 0  |  |
 | [The Person You Get](ThePersonYouGet.md) | A 0  | [Waveland Studios](https://www.youtube.com/watch?v=rZFE8oVkeK0) |
