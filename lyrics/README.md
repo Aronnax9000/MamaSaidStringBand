@@ -1,4 +1,4 @@
-# [Mama Said String Band](../README.md) [Discography](../discography.md) [Videos](../videos/README.md) Lyrics
+# [Mama Said String Band](../README.md) [Discography](../discography/README.md) [Videos](../videos/README.md) Lyrics
 
 - [Cold Dark Sea](ColdDarkSea.md)
 - [Fall In Love](FallInLove.md)
