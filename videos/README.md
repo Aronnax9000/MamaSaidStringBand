@@ -39,6 +39,22 @@ Uploaded August 15, 2020.
 ## [High Knob Music Festival 2023 - Mama Said String Band](https://youtu.be/LgGkLLcbXUA?si=b77hNtCVOpZDj7_8)
 Uploaded July 11, 2023
 
+- 0:18 Outside My Window
+- 4:55 O Lordy Me
+- 9:34 The Person You Get
+- 12:10 Cold Dark Sea
+- 15:40 Good Company
+- 19:20 The Hobo Song
+- 24:20 Katie Daily
+- 27:18 Hard Earned Sorrow
+- 31:24 310
+- 38:00 ?
+- 41:10 Lightning Bugs
+- 44:58 Kentucky Heartbreak
+- 48:50 Flabbergasted
+- 52:17 Feel This Blue
+- 55:51 Arms of a Stranger
+- 59:36 Best Friend's Medicine
 
 ## [Mama Said String Band at the Zanzibar in Louisville, KY on 3/2/2024](https://youtu.be/GPBQ8qsp01k?si=jIP8p72JeRbUNQ5c)
 
