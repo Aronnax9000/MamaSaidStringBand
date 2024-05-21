@@ -5,8 +5,7 @@
 | [310](310.md) | E 0  | [Mama Said String Band - 310 2021 07 24 Floydfest](https://youtu.be/iqEkTLLSkGY?si=uqMigtoVAz_ObETO) [Mama Said String Band @ The Big Stomp 2022, Seatonville, Kentucky](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1133s) |
 | [Arms of a Stranger](ArmsOfAStranger.md) | Em 0  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=885s) |
 | [Atomic Dreamz](AtomicDreamz.md) | Am 0  | [Mama Said String Band - Atomic Dream](https://www.youtube.com/watch?v=bd3R2XH4HLM) October 29, 2018 |
-| [Best Friends Medicine](BestFriendsMedicine.md) | Dm 0  | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
-| 3<a name="seasonsofchange"></a> | [Seasons Of Change](../lyrics/SeasonsOfChange.md) | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1891s) |
+| [Best Friends Medicine](BestFriendsMedicine.md) | Dm 0  | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) | |
 | [Boxwine Swing](BoxwineSwing.md) |  F#m 0 | [Overtones LIVE](https://www.youtube.com/watch?v=f1YTQgHs5NU) |
 | [Changes](Changes.md) | A | [Carry the Water](https://www.youtube.com/watch?v=7JhQ1mraBGQ)  |
 | [Cold Dark Sea](ColdDarkSea.md) | Am 0  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=684s) KF<br>[Tahlsound 2023](https://www.youtube.com/watch?v=8fwsfSM-S-k) KF<br>[Seasons of Change](https://www.youtube.com/watch?v=ZMz0-q6krcE) KF<br>[Katie Didit at Zanzabar ](https://www.youtube.com/watch?v=CMwSCUsRyz8)<br>[Katie Didit @ Diorio's 20 Dec 2023](https://www.youtube.com/watch?v=fvPow0pCdIk)<br>[Katie Didit and David O'Neal - Lightning Bugs - Cold Dark Sea @ Flanagan's Ale House - April 7, 2023](https://www.youtube.com/watch?v=RfKaMDNfsas&t=227s) |
@@ -32,7 +31,7 @@
 | [Peace Of Mind](PeaceOfMind.md) | D 0  | [Overtones LIVE](https://www.youtube.com/watch?v=--rrUmy3__k)<br>[Official Music Video](https://www.youtube.com/watch?v=MmH4DhDKpLw)  |
 | [The Person You Get](ThePersonYouGet.md) | A 0  | [Waveland Studios](https://www.youtube.com/watch?v=rZFE8oVkeK0) |
 | [Running in Circles](RunningInCircles.md) | C  | [Mama Said String Band](https://www.youtube.com/watch?v=q2PVO4D_0Q8) |
-| [Seasons of Change](SeasonsOfChange.md) | E/C#m 0  | [Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) |
+| [Seasons of Change](SeasonsOfChange.md) | E/C#m 0  | [Seasons of Change - Seasons of Change](https://www.youtube.com/watch?v=lf9KucPc7S8) [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1891s) |
 | [Sitting in a Bush](SittingInABush.md) | A 0  | [Bathroom Sessions](https://www.youtube.com/watch?v=uVwy5KYYC3c)<br>[Terrapin Hill Cabin Fever Reliever 2019](https://www.youtube.com/watch?v=4iY_saeoUbA&t=206s) |
 | [Somebody Anybody](SomebodyAnybody.md) | C 0  | [Bathroom Sessions](https://www.youtube.com/watch?v=X5FVCec5Jc8)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=2196s) |
 | [Stay](Stay.md) | C  | [Seasons of Change - Stay](https://youtu.be/lf9KucPc7S8?si=yeLBQiYMfVP2-GiQ) |
