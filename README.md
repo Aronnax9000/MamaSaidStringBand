@@ -1,6 +1,6 @@
 # Mama Said String Band 
 
-## Discography [Videos](Videos.md)
+## Discography [Videos](videos.md)
 
 ## Self-Titled (2018)
 
