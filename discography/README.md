@@ -19,16 +19,16 @@
 
 | Track | Title | Cf. |
 | --- | --- | --- |
-| 1<a name="outsidemywindow"></a> | [Outside My Window](../lyrics/OutsideMyWindow.md) | [SomerSessions](https://www.youtube.com/watch?v=Yx8IALIzmQ0) |
-| 2<a name="eyesontheroad"></a> | [Eyes on the Road](../lyrics/EyesOnTheRoad.md) | [Carry the Water](https://www.youtube.com/watch?v=qEvF4L6Wp-A) |
-| 3<a name="lowestlow"></a> | [Lowest Low](../lyrics/LowestLow.md) | [SomerSessions](https://www.youtube.com/watch?v=0PtewjU1oZA) |
-| 4<a name="uponterrapinhill"></a> | [Up on Terrapin Hill](../lyrics/UpOnTerrapinHill.md) | [Carry the Water](https://www.youtube.com/watch?v=R_KKl2GU6eo) |
-| 5<a name="nameless"></a> | [Nameless](../lyrics/Nameless.md) | [Carry the Water](https://www.youtube.com/watch?v=-JTKERZciR4) |
-| 6<a name="honeybeeyourself"></a> | [Honey Bee Yourself](../lyrics/HoneyBeeYourself.md) | [Carry the Water](https://www.youtube.com/watch?v=fRqfcLPClr4) |
-| 7<a name="atomicdreamz"></a> | [Atomic Dreamz](../lyrics/AtomicDreamz.md) | [Oct 29, 2018](https://www.youtube.com/watch?v=bd3R2XH4HLM) |
-| 8<a name="drinksarebad"></a> | [Drinks are Bad](../lyrics/DrinksAreBad.md) | [Official Music Video](https://www.youtube.com/watch?v=tbHXvDKRV3U) |
-| 9<a name="sweet"></a> | [Sweet](../lyrics/Sweet.md) | [Overtones LIVE](https://www.youtube.com/watch?v=zy8FoAtleLs) |
-| 10<a name="changes"></a> | [Changes](../lyrics/Changes.md) | [Carry the Water](https://www.youtube.com/watch?v=7JhQ1mraBGQ) |
+| 1<a name="outsidemywindow"></a> | [Outside My Window](../lyrics/OutsideMyWindow.md) | |
+| 2<a name="eyesontheroad"></a> | [Eyes on the Road](../lyrics/EyesOnTheRoad.md) | |
+| 3<a name="lowestlow"></a> | [Lowest Low](../lyrics/LowestLow.md) |  |
+| 4<a name="uponterrapinhill"></a> | [Up on Terrapin Hill](../lyrics/UpOnTerrapinHill.md) |  |
+| 5<a name="nameless"></a> | [Nameless](../lyrics/Nameless.md) |  |
+| 6<a name="honeybeeyourself"></a> | [Honey Bee Yourself](../lyrics/HoneyBeeYourself.md) | |
+| 7<a name="atomicdreamz"></a> | [Atomic Dreamz](../lyrics/AtomicDreamz.md) |  |
+| 8<a name="drinksarebad"></a> | [Drinks are Bad](../lyrics/DrinksAreBad.md) | |
+| 9<a name="sweet"></a> | [Sweet](../lyrics/Sweet.md) |  |
+| 10<a name="changes"></a> | [Changes](../lyrics/Changes.md) | |
 
 ## Mariah (2021)
 
