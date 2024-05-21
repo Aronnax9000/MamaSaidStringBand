@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | [310](310.md) | E 0  | [Mama Said String Band - 310 2021 07 24 Floydfest](https://youtu.be/iqEkTLLSkGY?si=uqMigtoVAz_ObETO) [Mama Said String Band @ The Big Stomp 2022, Seatonville, Kentucky](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1133s) |
 | [Arms of a Stranger](ArmsOfAStranger.md) | Em 0  | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=885s) |
-| [Atomic Dreamz](AtomicDreamz.md) | Am 0  | [Oct 29, 2018](https://www.youtube.com/watch?v=bd3R2XH4HLM) |
+| [Atomic Dreamz](AtomicDreamz.md) | Am 0  | [Mama Said String Band - Atomic Dream](https://www.youtube.com/watch?v=bd3R2XH4HLM) October 29, 2018 |
 | [Best Friends Medicine](BestFriendsMedicine.md) | Dm 0  | [Waveland Studios](https://www.youtube.com/watch?v=Lr1WfGgH1Lw) |
 | 3<a name="seasonsofchange"></a> | [Seasons Of Change](../lyrics/SeasonsOfChange.md) | [The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=1891s) |
 | [Boxwine Swing](BoxwineSwing.md) |  F#m 0 | [Overtones LIVE](https://www.youtube.com/watch?v=f1YTQgHs5NU) |
