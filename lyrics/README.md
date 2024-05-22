@@ -14,7 +14,7 @@
 | [Drinks are Bad](DrinksAreBad.md) | Gm 0  |  [Official Music Video](https://www.youtube.com/watch?v=tbHXvDKRV3U) |
 | [Dust](Dust.md) | Em  | [Mama Said String Band](https://www.youtube.com/watch?v=DkfL1m8xe78) |
 | [Eyes on the Road](EyesOnTheRoad.md) | A | [Carry the Water](https://www.youtube.com/watch?v=qEvF4L6Wp-A)  |
-| [Fall in Love](FallInLove.md) | F 0  | [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) |
+| [Fall in Love](FallInLove.md) | F 0  | [Official Music Video](https://www.youtube.com/watch?v=a7-NrQq9GF4) [MuseScore PDF](../musescore/FallInLove.pdf) [MuseScore OGG](../musescore/FallInLove.ogg) |
 | [Feel this Blue](FeelThisBlue.md) | A 2 G  | [Seasons of Change](https://www.youtube.com/watch?v=9PB-YTRKaYc)<br>[The Boogiedown 2022](https://www.youtube.com/watch?v=BOQ7bYgzM24)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=471s) |
 | [Flabbergasted](Flabbergasted.md) |  A | [Seasons of Change](https://www.youtube.com/watch?v=gHXTqLP6Ed4)  |
 | [Good Company](GoodCompany.md) | Am/C 0  |  [Bathroom Sessions](https://www.youtube.com/watch?v=nG1v1APGR0Y)<br>[The Big Stomp 2022](https://www.youtube.com/watch?v=NGMYoMtF3q0&t=239s) |
