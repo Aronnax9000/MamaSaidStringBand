@@ -12,7 +12,7 @@
 | 6<a name="sittinginabush"></a> | [Sitting in a Bush](../lyrics/SittingInABush.md) |  |
 | 7<a name="mountainlife"></a> | [Mountain Life](../lyrics/MountainLife.md) |  |
 | 8<a name="thewall"></a> | [The Wall](../lyrics/TheWall.md) |  |
-| 9<a name="somebodyanybody"></a> | Somebody Anybody [lyrics](../lyrics/SomebodyAnybody.md) |  |
+| 9<a name="somebodyanybody"></a> | Somebody Anybody | [lyrics](../lyrics/SomebodyAnybody.md)  |
 | 10<a name="dust"></a> | [Dust](../lyrics/Dust.md) |  |
 
 ## Carry The Water (2019)
