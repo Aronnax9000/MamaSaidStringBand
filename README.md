@@ -1,4 +1,4 @@
-# Mama Said String Band Database
+# Mama Said String Band Song Database
 
 Maintainer: Alan Canon <alancanon9000@gmail.com>
 
