@@ -1,5 +1,5 @@
 # The Person You Get  
-by Kaitlen Famer
+by Kaitlen Farmer
 
 Nothing gets easier and more things don't make sense  
 I try to give you my love and I get the short end of the stick  
