@@ -34,7 +34,7 @@
 
 | Track | Title | Cf. |
 | --- | --- | --- |
-| 1<a name="kentuckyheartbreak"></a> | [Kentucky Heartbreak](../lyrics/KentuckyHeartbreak.md)  |  |
+| 1<a name="kentuckyheartbreak"></a> | Kentucky Heartbreak | [lyrics](../lyrics/KentuckyHeartbreak.md)  |
 | 2<a name="goodcompany"></a> | [Good Company](../lyrics/GoodCompany.md) | |
 | 3<a name="peaceofmind"></a> | [Peace of Mind](../lyrics/PeaceOfMind.md) | |
 | 4<a name="boxwineswing"></a> | [Boxwine Swing](../lyrics/BoxwineSwing.md) |  |
