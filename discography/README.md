@@ -43,13 +43,14 @@
 
 | Track | Title | Cf. |
 | --- | --- | --- |
-| 1<a name="feelthisblue"></a> | [Feel this Blue](../lyrics/FeelThisBlue.md) | |
-| 2<a name="bestfriendsmedicine"></a> | [Best Friend's Medicine](../lyrics/BestFriendsMedicine.md) |  |
-| 4<a name="thepersonyouget"></a> | [The Person You Get](../lyrics/ThePersonYouGet.md) |  |
-| 5<a name="colddarksea"></a> | [Cold Dark Sea](../lyrics/ColdDarkSea.md)<br> |  |
+| 1<a name="feelthisblue"></a> | Feel this Blue | [lyrics](../lyrics/FeelThisBlue.md) |
+| 2<a name="bestfriendsmedicine"></a> | Best Friend's Medicine | [lyrics](../lyrics/BestFriendsMedicine.md) |
+| 3<a name="seasonsofchange"></a> | Seasons of Change | [lyrics](../lyrics/SeasonsOfChange.md) |
+| 4<a name="thepersonyouget"></a> | The Person You Get | [lyrics](../lyrics/ThePersonYouGet.md) |
+| 5<a name="colddarksea"></a> | Cold Dark Sea | [lyrics](../lyrics/ColdDarkSea.md)<br> |
 | 6<a name="hardearnedsorrow"></a> | [Hard Earned Sorrow](../lyrics/HardEarnedSorrow.md) | |
 | 7<a name="310"></a> | [310](../lyrics/310.md) | |
-| 8<a name="fallinlove"></a> | [Fall in Love](../lyrics/FallInLove.md) |  |
+| 8<a name="fallinlove"></a> | Fall in Love | [lyrics](../lyrics/FallInLove.md) |
 | 9<a name="flabbergasted"></a> | [Flabbergasted](../lyrics/Flabbergasted.md) | |
 | 10<a name="lightningbugs"></a> | [Lightning Bugs](../lyrics/LightningBugs.md) |  |
 | 11<a name="armsofastranger"></a> | [Arms of a Stranger](../lyrics/ArmsOfAStranger.md) |  |
