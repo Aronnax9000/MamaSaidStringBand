@@ -2,7 +2,7 @@
 
 [Home](../README.md) Discography [Videos](../videos/README.md) [Lyrics](../lyrics/README.md)
 
-## Self-Titled (2018)
+## Mama Said String Band (2018)
 
 | Track | Title | Cf. |
 | --- | --- | --- |
