@@ -1,4 +1,4 @@
-# [Mama Said String Band Song Database]
+# Mama Said String Band Song Database
 
 [Home](../README.md) Discography [Videos](../videos/README.md) [Lyrics](../lyrics/README.md)
 
