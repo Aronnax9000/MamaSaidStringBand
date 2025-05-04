@@ -47,7 +47,7 @@
 | 2<a name="bestfriendsmedicine"></a> | [Best Friend's Medicine](../lyrics/BestFriendsMedicine.md) |  |
 | 4<a name="thepersonyouget"></a> | [The Person You Get](../lyrics/ThePersonYouGet.md) |  |
 | 5<a name="colddarksea"></a> | [Cold Dark Sea](../lyrics/ColdDarkSea.md)<br> |  |
-| 6<a name="hardearnedsorrow"></a> | [Hard Earned Sorrow](../lyrics/.md) | |
+| 6<a name="hardearnedsorrow"></a> | [Hard Earned Sorrow](../lyrics/HardEarnedSorrow.md) | |
 | 7<a name="310"></a> | [310](../lyrics/310.md) | |
 | 8<a name="fallinlove"></a> | [Fall in Love](../lyrics/FallInLove.md) |  |
 | 9<a name="flabbergasted"></a> | [Flabbergasted](../lyrics/Flabbergasted.md) | |
