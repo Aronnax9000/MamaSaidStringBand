@@ -1,4 +1,6 @@
-# [Mama Said String Band](../README.md) Discography [Videos](../videos/README.md) [Lyrics](../lyrics/README.md)
+# [Mama Said String Band Song Database]
+
+[Home](../README.md) Discography [Videos](../videos/README.md) [Lyrics](../lyrics/README.md)
 
 ## Self-Titled (2018)
 
